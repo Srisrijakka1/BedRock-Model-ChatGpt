@@ -12,7 +12,7 @@ Need a AWS Account or AWS login redentials.
 #### BedRock-Model-ChatGpt Overview:
   > To create a single Page Application: <br>
   >
-  >        Languages Used: HTML , JavaSript(JS)
+  >        Languages Used: ![HTML](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/index.html) , ![JavaSript(JS)](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/script.js)
   >        Platform Used: VS Code Editor
 
   > To Deploy & Test Application Environment:
@@ -40,7 +40,17 @@ Need a AWS Account or AWS login redentials.
 >             Amazon Bedrock
 >             Amazon Lambda
 >             Amazon APIGateway 
-  
+
+> All Software Code URLS:
+>  
+>  ![WebApplication HTML Source](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/index.html)                             <br>
+  ![WebApplication JavaSript(JS) Source](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/script.js)                      <br>
+  ![WebApplication Backend Lambda function Source](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/lambda_function.py)   <br>
+  ![Project Overall Softwares Zip Source](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/Bedrock-Model-chatgpt.zip)     <br>
+
+### Important Note:
+    While using this Repository as reference to implement this project please update your Api Gateway Endpoint in HTML code.
+
 ### Architecture:
 ![Bedrock-Model-ChatGpt](https://github.com/user-attachments/assets/be71ebab-8a9c-4c5e-8828-06c0929de503)
 
