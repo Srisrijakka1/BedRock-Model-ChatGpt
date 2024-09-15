@@ -3,7 +3,7 @@ Deploying a Single Page Application with AI Integration for General Queries usin
 
 ### Requirements for this project:
 
-Need a AWS Account or AWS login redentials.
+Need a AWS Account or AWS login credentials.
 
 ### Description:
   
