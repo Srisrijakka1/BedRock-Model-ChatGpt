@@ -12,7 +12,7 @@ Need a AWS Account or AWS login credentials.
 #### BedRock-Model-ChatGpt Overview:
   > To create a single Page Application: <br>
   >
-  >        Languages Used: ![HTML](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/index.html) , ![JavaSript(JS)](https://github.com/Srisrijakka1/BedRock-Model-ChatGpt/blob/main/script.js)
+  >        Languages Used: HTML, JavaSript(JS)
   >        Platform Used: VS Code Editor
 
   > To Deploy & Test Application Environment:
